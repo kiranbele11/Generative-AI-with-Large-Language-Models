@@ -8,7 +8,7 @@ This specialization covers the entire lifecycle of Generative AI models, from pr
 
 # Key Learning Objectives
 ## Week 1: Generative AI Fundamentals
--Model Pre-Training: Explored the value of continued pre-training vs. fine-tuning and discussed computational challenges during pre-training.
+- Model Pre-Training: Explored the value of continued pre-training vs. fine-tuning and discussed computational challenges during pre-training.
 
 - LLM Lifecycle: Learned the steps in a typical LLM-based generative AI model lifecycle and the factors driving decisions at each step.
 
