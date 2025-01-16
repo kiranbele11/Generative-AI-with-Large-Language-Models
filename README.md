@@ -10,25 +10,25 @@ This specialization covers the entire lifecycle of Generative AI models, from pr
 ## Week 1: Generative AI Fundamentals
 -Model Pre-Training: Explored the value of continued pre-training vs. fine-tuning and discussed computational challenges during pre-training.
 
--LLM Lifecycle: Learned the steps in a typical LLM-based generative AI model lifecycle and the factors driving decisions at each step.
+- LLM Lifecycle: Learned the steps in a typical LLM-based generative AI model lifecycle and the factors driving decisions at each step.
 
--Scaling Laws: Defined scaling laws and their impact on training dataset size, compute budget, and inference requirements.
+- Scaling Laws: Defined scaling laws and their impact on training dataset size, compute budget, and inference requirements.
 
--Transformer Architecture: Understood the transformer architecture that powers LLMs and its role in generative AI.
+- Transformer Architecture: Understood the transformer architecture that powers LLMs and its role in generative AI.
 
 ## Week 2: Fine-Tuning and Evaluating LLMs
--Fine-Tuning Techniques: Learned how fine-tuning with instructions using prompt datasets improves task performance.
+- Fine-Tuning Techniques: Learned how fine-tuning with instructions using prompt datasets improves task performance.
 
--Parameter-Efficient Fine-Tuning (PEFT): Explored how PEFT reduces computational costs and overcomes catastrophic forgetting.
+- Parameter-Efficient Fine-Tuning (PEFT): Explored how PEFT reduces computational costs and overcomes catastrophic forgetting.
 
--Catastrophic Forgetting: Defined the concept and studied techniques to mitigate it during fine-tuning.
+- Catastrophic Forgetting: Defined the concept and studied techniques to mitigate it during fine-tuning.
 
 ## Week 3: Reinforcement Learning and LLM Applications
--Reinforcement Learning with Human Feedback (RLHF): Understood how RLHF uses human feedback to improve LLM performance and alignment.
+- Reinforcement Learning with Human Feedback (RLHF): Understood how RLHF uses human feedback to improve LLM performance and alignment.
 
--Chain-of-Thought Prompting: Explored how this technique enhances LLMs' reasoning and planning abilities.
+- Chain-of-Thought Prompting: Explored how this technique enhances LLMs' reasoning and planning abilities.
 
--Knowledge Cut-Offs: Discussed challenges with LLM knowledge cut-offs and solutions like information retrieval and augmentation.
+- Knowledge Cut-Offs: Discussed challenges with LLM knowledge cut-offs and solutions like information retrieval and augmentation.
 
 # Snapshots
 
@@ -41,35 +41,35 @@ This specialization covers the entire lifecycle of Generative AI models, from pr
 ![Building Generative Applications](https://github.com/user-attachments/assets/b35f5d88-2fde-4ada-9e82-e2f7714d869d)
 
 # Technologies and Concepts Covered
--Generative AI
+- Generative AI
 
--Large Language Models (LLMs)
+- Large Language Models (LLMs)
 
--Transformer Architecture
+- Transformer Architecture
 
--Model Pre-Training and Fine-Tuning
+- Model Pre-Training and Fine-Tuning
 
--Parameter-Efficient Fine-Tuning (PEFT)
+- Parameter-Efficient Fine-Tuning (PEFT)
 
--Reinforcement Learning with Human Feedback (RLHF)
+- Reinforcement Learning with Human Feedback (RLHF)
 
--Chain-of-Thought Prompting
+- Chain-of-Thought Prompting
 
--Scaling Laws for LLMs
+- Scaling Laws for LLMs
 
 # Why This Matters
 This specialization has equipped me with the skills to:
 
--Design and optimize LLM-based solutions for real-world applications.
+- Design and optimize LLM-based solutions for real-world applications.
 
--Fine-tune models efficiently using advanced techniques like PEFT.
+- Fine-tune models efficiently using advanced techniques like PEFT.
 
--Leverage RLHF to align AI systems with human values and improve performance.
+- Leverage RLHF to align AI systems with human values and improve performance.
 
--Overcome challenges like catastrophic forgetting and knowledge cut-offs.
+- Overcome challenges like catastrophic forgetting and knowledge cut-offs.
 
 # Next Steps
--I’m excited to apply these learnings to build innovative AI-powered applications and contribute to the growing field of Generative AI. Let’s connect and explore how we can collaborate on cutting-edge AI projects!
+- I’m excited to apply these learnings to build innovative AI-powered applications and contribute to the growing field of Generative AI. Let’s connect and explore how we can collaborate on cutting-edge AI projects!
 
 
 
