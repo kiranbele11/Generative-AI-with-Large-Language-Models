@@ -36,9 +36,9 @@ Knowledge Cut-Offs: Discussed challenges with LLM knowledge cut-offs and solutio
 
 ![DDP](https://github.com/user-attachments/assets/da836236-1015-4960-ad01-337d4323aa9e)
 
-![Amazon Sagemaker](<img width="736" alt="Screenshot 2025-01-12 at 10 52 10 AM" src="https://github.com/user-attachments/assets/a939b963-986e-423d-a51c-1acfaff76c73" />)
+![Amazon Sagemaker](https://github.com/user-attachments/assets/38dd97ac-c2c9-4d6e-aa33-51ddd9c2b427)
 
-
+![Building Generative Applications](https://github.com/user-attachments/assets/b35f5d88-2fde-4ada-9e82-e2f7714d869d)
 
 # Technologies and Concepts Covered
 Generative AI
