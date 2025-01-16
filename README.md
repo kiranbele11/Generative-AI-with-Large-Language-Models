@@ -14,7 +14,7 @@ LLM Lifecycle: Learned the steps in a typical LLM-based generative AI model life
 
 Scaling Laws: Defined scaling laws and their impact on training dataset size, compute budget, and inference requirements.
 
-ransformer Architecture: Understood the transformer architecture that powers LLMs and its role in generative AI.
+Transformer Architecture: Understood the transformer architecture that powers LLMs and its role in generative AI.
 
 ## Week 2: Fine-Tuning and Evaluating LLMs
 Fine-Tuning Techniques: Learned how fine-tuning with instructions using prompt datasets improves task performance.
@@ -29,6 +29,9 @@ Reinforcement Learning with Human Feedback (RLHF): Understood how RLHF uses huma
 Chain-of-Thought Prompting: Explored how this technique enhances LLMs' reasoning and planning abilities.
 
 Knowledge Cut-Offs: Discussed challenges with LLM knowledge cut-offs and solutions like information retrieval and augmentation.
+
+![Model Architecture and Pre training Objectives](https://github.com/user-attachments/assets/61e6e0f4-5197-4686-966c-95dd3abc59cd)
+
 
 # Technologies and Concepts Covered
 Generative AI
