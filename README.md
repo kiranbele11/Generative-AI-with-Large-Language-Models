@@ -30,7 +30,14 @@ Chain-of-Thought Prompting: Explored how this technique enhances LLMs' reasoning
 
 Knowledge Cut-Offs: Discussed challenges with LLM knowledge cut-offs and solutions like information retrieval and augmentation.
 
+# Snapshots
+
 ![Model Architecture and Pre training Objectives](https://github.com/user-attachments/assets/61e6e0f4-5197-4686-966c-95dd3abc59cd)
+
+![DDP](https://github.com/user-attachments/assets/da836236-1015-4960-ad01-337d4323aa9e)
+
+![Amazon Sagemaker](<img width="736" alt="Screenshot 2025-01-12 at 10 52 10 AM" src="https://github.com/user-attachments/assets/a939b963-986e-423d-a51c-1acfaff76c73" />)
+
 
 
 # Technologies and Concepts Covered
